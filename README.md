@@ -1,5 +1,3 @@
-# Ravinuthala-Venu-Gopal
-DevOps Engineer
 # 👋 Hi, I'm Venu
 
 🚀 DevOps Engineer | 3+ Years Experience
